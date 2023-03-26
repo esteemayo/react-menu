@@ -185,7 +185,7 @@ Menu
 }
 
 .filter-btn {
-  background: transparent;
+  background-color: transparent;
   border-color: transparent;
   font-size: 1rem;
   text-transform: capitalize;
