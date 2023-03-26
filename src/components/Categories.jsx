@@ -1,7 +1,7 @@
 const Categories = ({ categories, filterItems }) => {
   return (
     <div className='btn-container'>
-      {categories.map((category, i) => (
+      {categories.map((category, index) => (
         <button
           key={i}
           onClick={() => filterItems(category)}
