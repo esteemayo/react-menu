@@ -1,6 +1,6 @@
 const Categories = ({ categories, filterItems }) => {
   return (
-    <div className="btn-container">
+    <div className='btn-container'>
       {categories.map((category, i) => (
         <button
           key={i}
