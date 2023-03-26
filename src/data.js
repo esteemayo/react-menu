@@ -33,8 +33,8 @@ const menu = [
   },
   {
     id: 5,
-    title: "egg attack",
-    category: "lunch",
+    title: 'egg attack',
+    category: 'lunch',
     price: 22.99,
     img: "./images/item-5.jpeg",
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
