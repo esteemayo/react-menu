@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Categories from 'components/Categories';
 import Menu from 'components/Menu';
 
-import items from 'services/menuService';
+import items from 'menuService';
 
 import './App.css';
 
