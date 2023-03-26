@@ -4,8 +4,6 @@ import Menu from 'components/Menu';
 import Categories from 'components/Categories';
 import items from 'data';
 
-import './App.css';
-
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
 function App() {
