@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 import Categories from "components/Categories";
-import Menu from "./components/Menu";
+import Menu from "components/Menu";
 
 import items from "./services/menuService";
 
