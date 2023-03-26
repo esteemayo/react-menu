@@ -199,7 +199,7 @@ Menu
 }
 
 .filter-btn:hover {
-  background: var(--clr-gold);
+  background-color: var(--clr-gold);
   color: var(--clr-white);
 }
 
