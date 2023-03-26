@@ -44,7 +44,7 @@ const menu = [
     title: 'oreo dream',
     category: 'shakes',
     price: 18.99,
-    img: "./images/item-6.jpeg",
+    img: './images/item-6.jpeg',
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
