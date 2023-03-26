@@ -7,7 +7,7 @@ import items from 'services/menuService';
 
 import './App.css';
 
-const allCategories = ["all", ...new Set(items.map((item) => item.category))];
+const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
 function App() {
   const [menuItems, setMenuItems] = useState(items);
