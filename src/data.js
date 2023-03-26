@@ -25,8 +25,8 @@ const menu = [
   },
   {
     id: 4,
-    title: "country delight",
-    category: "breakfast",
+    title: 'country delight',
+    category: 'breakfast',
     price: 20.99,
     img: "./images/item-4.jpeg",
     desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
