@@ -5,7 +5,7 @@ import Menu from 'components/Menu';
 
 import items from 'services/menuService';
 
-import "./App.css";
+import './App.css';
 
 const allCategories = ["all", ...new Set(items.map((item) => item.category))];
 
