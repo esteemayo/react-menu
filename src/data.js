@@ -52,7 +52,7 @@ const menu = [
     title: 'bacon overflow',
     category: 'breakfast',
     price: 8.99,
-    img: "./images/item-7.jpeg",
+    img: './images/item-7.jpeg',
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
